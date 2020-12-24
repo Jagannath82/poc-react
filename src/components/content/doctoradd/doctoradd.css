@@ -1,0 +1,17 @@
+
+.form-field{
+    margin-top: 10px;
+}
+
+.text-field{
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-left: 10px !important;
+    margin-bottom: 10px !important;
+}
+
+.button-field{
+    margin-top: 10px !important;
+    margin-left: 10px !important;
+    align-self: center ;
+}
